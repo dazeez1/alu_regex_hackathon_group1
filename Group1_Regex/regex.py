@@ -17,7 +17,7 @@ strings = [
     "192.168.0.1",
     #Song Lyrics:
     "[Verse 1] I wanna hold your hand",
-
+    "[Verse 2] Just like a prayer",
     #Twitter Usernames:
     "@johnsmith",
     "@sarahjones",
