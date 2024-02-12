@@ -1,4 +1,4 @@
-# alu_regex_hackathon_group1
+# alu_regex_hackathon_group9
 
 Group 3 Regex Hackaton Data Type Extraction with Regular Expressions
 This script demonstrates how to extract various data types using regular expressions in Python. The provided regular expressions can be used to extract the following data types:
