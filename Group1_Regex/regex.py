@@ -68,6 +68,7 @@ weird_dates = []
 hex_colors = []
 ip_addresses = []
 
+
 for string in strings:
     if re.match(movie_title_regex, string):
         movie_titles.append(string)
